@@ -1,0 +1,17 @@
+
+_site
+.sass-cache
+.jekyll-metadata
+.DS_Store
+
+*.class
+.vscode
+
+node_modules/
+db.json
+public/
+.deploy_git
+
+
+
+
